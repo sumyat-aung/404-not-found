@@ -14,7 +14,7 @@
 ![](Demo/large-screen.png)
 <br/>
 <br/>
-![](Demo/large-screen.png)
+![](Demo/small-screen.png)
 <br/>
 <br/>
 
