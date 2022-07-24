@@ -25,5 +25,5 @@
 ## Features
 
 - **Responsive and look great on all devices**
-- **Nice Illustration**
-- **Code Fonts**
+- **404-Error Page**
+
