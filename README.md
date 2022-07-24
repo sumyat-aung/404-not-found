@@ -2,9 +2,9 @@
 
 ## Overview
 
-  <h3>
+  <h3> Demo - URL link 
     <a href="https://404notfound-by-sumyat.netlify.app/">
-      Demo - URL link - https://404notfound-by-sumyat.netlify.app/
+      - https://404notfound-by-sumyat.netlify.app/
     </a>
   </h3>
 
@@ -14,16 +14,20 @@
 ![](Demo/large-screen.png)
 <br/>
 <br/>
-![](Demo/small-screen.png)
+<div align="center">
+<img src="Demo/small-screen.png" width='300' >
+</div>
+  
 <br/>
 <br/>
 
 ## Built With
 
-- **HTML** and **CSS**
+- **HTML** 
+- **CSS**
 
 ## Features
 
-- **Responsive and look great on all devices**
-- **404-Error Page**
+- **Responsive and look great on all devices !**
+- **404-Error Page !**
 
